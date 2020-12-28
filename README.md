@@ -1,6 +1,6 @@
 ## Assignment from FreeCodeCamp
 
-### Solution by **Guillermo F.** in arithmetic_arranger.py
+### Solution by **Guillermo F.** in 'time_calculator.py'
 
 ### Assignment rules
 
